@@ -1,0 +1,1 @@
+A Stock Market code that permit you to check and see the state of Stock by it's code name (ex: Tesla == TSLA). You can also set your period of interest to see the value of the stock in a chosen span of time and once you see the stock graph you can zoom in to see the value of the stock in a specific moment of the day for example.
